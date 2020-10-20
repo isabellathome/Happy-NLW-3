@@ -1,2 +1,2 @@
 # Happy-NLW-3
-Uma aplicação que visa conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz
+Uma aplicação que visa conectar casas de acolhimento institucional á pessoas dispostas em tornar o dia de muitas crianças mais feliz. 
